@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/erelita/huddle_landingpage.git)
+- Live Site URL: [Netlify](https://huddle-lp-erelita.netlify.com)
 
 ## My process
 
@@ -106,7 +106,7 @@ I tried to look for articles and tutorials that I thought helped me, then I real
 
 ## Author
 
-- Github - [Erelita](https://www.your-site.com)
+- Github - [Erelita](https://github.com/erelita/)
 - Frontend Mentor - [@erelita](https://www.frontendmentor.io/profile/erelita)
 
 ## Acknowledgments
